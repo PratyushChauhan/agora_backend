@@ -1,0 +1,19 @@
+{
+  "name": "agora_backend",
+  "version": "1.0.0",
+  "description": "a token generation server for agora video conferencing service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PratyushChauhan/agora_backend.git"
+  },
+  "author": "pratyushchauhan62@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PratyushChauhan/agora_backend/issues"
+  },
+  "homepage": "https://github.com/PratyushChauhan/agora_backend#readme"
+}
